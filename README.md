@@ -30,3 +30,8 @@ Puedes descargar el APK de la versión más reciente desde la sección de **[Rel
 
 ## 📜 Licencia
 Este proyecto es de código abierto y está bajo la Licencia **GPL-3.0**; consulta el archivo [LICENSE](LICENSE) para más detalles.
+## 📱 Screenshots / Preview
+
+| **Bienvenido** | **onboarding 1** | **onboarding 2** |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/YorichiEGCodeXD/Cris-Launcher/refs/heads/main/Screenshot_20261011-122854_Cris%20Launcher.png" width="100%"> 
