@@ -34,4 +34,4 @@ Este proyecto es de código abierto y está bajo la Licencia **GPL-3.0**; consul
 
 | **Pantalla Principal** |
 | :---: |
-| <img src="https://raw.githubusercontent.com/YorichiEGCodeXD/Cris-Launcher/refs/heads/main/Screenshot_20261011-122914_Cris%20Launcher.png" width="100%"> |
+| <img src="https://raw.githubusercontent.com/YorichiEGCodeXD/Cris-Launcher/refs/heads/main/Screenshot_20261011-122911_Cris%20Launcher.png" width="100%"> |
